@@ -1,7 +1,7 @@
 # Technology
 
 - Visual Effect With Blur
-- Figma
+
 
 ### This project is one where I tested the blur background functionality.
 
